@@ -5,3 +5,9 @@ color: white;
 .text-red {
     color: red;
 }
+.link {
+    color: red;
+}
+.link:hover {
+    color: blue;
+}
